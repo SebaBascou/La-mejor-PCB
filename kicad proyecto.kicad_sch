@@ -4772,8 +4772,8 @@
 		)
 		(uuid "ffeb2bae-070f-4416-9aeb-eb504a444804")
 	)
-	(label "USB_D+"
-		(at 148.59 124.46 0)
+	(label "USB_D P"
+		(at 147.32 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4782,8 +4782,8 @@
 		)
 		(uuid "72c0b5f8-f4f3-415c-a026-2b1ebe2f5f6e")
 	)
-	(label "USB_D-"
-		(at 152.4 127 0)
+	(label "USB_D N"
+		(at 147.32 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
