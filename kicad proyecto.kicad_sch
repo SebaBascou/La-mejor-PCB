@@ -8593,7 +8593,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal"
+		(property "Footprint" "pretty:601030"
 			(at 76.2 146.05 0)
 			(effects
 				(font
@@ -10594,7 +10594,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal"
+		(property "Footprint" "pretty:601030"
 			(at 101.6 59.69 0)
 			(effects
 				(font
